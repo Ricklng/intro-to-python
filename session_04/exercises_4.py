@@ -95,12 +95,15 @@ fruits = ["Apples", "Cherries", "Pears", "Pineapples", "Peaches", "Mango"]
 # print(squares)
 
 # 9. Create a list with five names in. Write a for loop which appends  Dr. to each name in the new list.
-name1 =["Arams", "JennyBaby", "CynthiaDD", "Rick"]
-name2 = []
-for items in name1:
-  name2.append("Dr " + items)
-print(name2)
-
+# name1 =["Arams", "JennyBaby", "CynthiaDD", "Rick"]
+# name2 = []
+# for items in name1:
+#   name2.append("Dr " + items)
+# print(name2)
+# total = 0
+# for num in range(1,4):
+#   total = total + num
+# print(total)
 
 # 10. FizzBuzz – Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number and for multiples of five, print "Buzz". 
 #    For numbers which are multiples of both three and five, print "FizzBuzz".
