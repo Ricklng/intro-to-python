@@ -2,10 +2,10 @@
 
 ## Section A
 # 1. Create the following dictionary for an apple: Type = "Bramley", Price = 0.39, Colour = "Green".
-apple = {"type": "Bramley",
-        "price": 0.39,
-        "colour": "Green"
-        }
+# apple = {"type": "Bramley",
+#         "price": 0.39,
+#         "colour": "Green"
+#         }
 
 # print(apple)
 # 2. Add the best before date to the dictionary - print the dictionary.
